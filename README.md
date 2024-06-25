@@ -1,2 +1,2 @@
 # Simple-Calculator
-Simple Calculator in C (Supported operators: + -
+created 4fun because I'm learning C
