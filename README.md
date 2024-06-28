@@ -1,2 +1,2 @@
 # Simple-Calculator
-created 4fun because I'm learning C
+## Type: gcc calculator.c -o calculator
